@@ -1,0 +1,17 @@
+subscription:	ISEG Education Cloud 000a9103-fec4-4ce8aba5-d7b0908f5aca
+Resource Group:	DSBAFB2_DW
+			https://portal.azure.com/#@isegulisboacloud.onmicrosoft.com/resource/subscriptions/000a9103-fec4-4ce8-aba5-d7b0908f5aca/resourceGroups/DSBAFB2_DW/overview
+
+ADF:			DSBAFB2adf
+			https://adf.azure.com/en/home?factory=%2Fsubscriptions%2F000a9103-fec4-4ce8-aba5-d7b0908f5aca%2FresourceGroups%2FDSBAFB2_DW%2Fproviders%2FMicrosoft.DataFactory%2Ffactories%2FDSBAFB2adf
+
+adls:			https://dsbafb2sharedstor.dfs.core.windows.net
+adls key:		15fqYUdA4pvS+vm8PDMRXFXU+/Na9rXSA4BByE6+Ev/t+df6PCEOW5oXQcZ0cHxh+WDdjIRYwncU+ASt25U4gQ==
+
+SQL Server: 	dsba-datawarehouse.database.windows.net
+DW:			Datawarehouse
+Operacional:	dboperacional
+user db dw:		ixxxxxx
+psw db dw:		idefe1234!#
+
+
